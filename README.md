@@ -1,4 +1,4 @@
-# Reindex example projects
+# Reindex example project
 
 Example projects using [Reindex](https://www.reindex.io/?utm_source=github).
 
