@@ -2,7 +2,7 @@ import './decorator'
 import 'babel-polyfill';
 import Relay from 'react-relay';
 import Reindex from 'reindex-js';
-
+//
 import Config from './Config';
 
 const reindex = new Reindex(Config.REINDEX_URL);
